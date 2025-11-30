@@ -2,7 +2,7 @@
 
 Работа с Git
 
-![Изображение](images\Osnovy_Git\1-8.png)
+![Изображение](images/Osnovy_Git/1-8.png)
 
 ## 1-8 шага
 
@@ -93,8 +93,8 @@ Your branch is ahead of 'origin/main' by 1 commit.
 
 Работа с Git
 
-![Изображение](images\Osnovy_Git\9-17(1).png)
-![Изображение](images\Osnovy_Git\9-17(2).png)
+![Изображение](images/Osnovy_Git/9-17(1).png)
+![Изображение](images/Osnovy_Git/9-17(2).png)
 
 ## 9-17 шага
 
@@ -159,9 +159,9 @@ To https://github.com/username/lab9_git.git
 
 Работа с ветками
 
-![Изображение](images\Vetki\1-17(1).png)
-![Изображение](images\Vetki\1-17(2).png)
-![Изображение](images\Vetki\1-17(3).png)
+![Изображение](images/Vetki/1-17(1).png)
+![Изображение](images/Vetki/1-17(2).png)
+![Изображение](images/Vetki/1-17(3).png)
 ## 1-17 шага
 
 1. Создадим ветку и тут же перейдём в неё с помощью команды `git checkout -b <new-branch-name>`. Вывод сообщения будет таким:
