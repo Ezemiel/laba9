@@ -1,0 +1,3 @@
+[submodule "mylibraly"]
+	path = mylibraly
+	url = https://github.com/Ezemiel/mobile_app_pp03
