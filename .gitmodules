@@ -1,3 +1,6 @@
 [submodule "mylibraly"]
 	path = mylibraly
 	url = https://github.com/Ezemiel/mobile_app_pp03
+[submodule "mylibraly1"]
+	path = mylibraly1
+	url = https://github.com/Ezemiel/mobile_app_pp03
